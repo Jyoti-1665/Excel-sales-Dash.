@@ -1,6 +1,4 @@
-:
-
-🛒 Supermarket Sales Dashboard – Excel Project
+🛒 **Supermarket Sales Dashboard – Excel Project**
 📊 Description
 The Supermarket Sales Dashboard is a dynamic, interactive Excel-based report designed to analyze sales performance across products, categories, time periods, and payment methods. This dashboard is ideal for small business owners, retail managers, and data analysts who want quick insights without complex BI tools.
 
